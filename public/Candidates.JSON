@@ -132,5 +132,45 @@
     "state": "Bagmati",
     "bio": "General Secratary of Nepali Congress; former Nepalese Minister of Health and Population.", 
 "photo": "/images/Pradip Poudel.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ishwor Pokherel",
+    "party": "CPN (UML)",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Deputy Prime Minister of Nepal. He was also Minister of Defence in the Second Oli cabinet.",
+    "photo": "images/Ishwor Pokherel.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Kamal Thapa",
+    "party": "RPP",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Former President of RPP, Former Home Minister",
+    "photo": "images/Kamal Thapa.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Sasmit Pokherel",
+    "party": "RSP",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Previously served as an associate expert at the KMC City Planning Commission. He contested the 2022 provincial election as an independent candidate from Kathmandu Constituency-5 (A) and was previously associated with Bibeksheel Sajha.",
+    "photo": "images/Sasmit Pokherel.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Nisha Adhikari",
+    "party": "GLP",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Actor",
+    "photo": "images/Nisha Adhikari.jpg"
   }
 ]
