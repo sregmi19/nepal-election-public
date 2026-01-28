@@ -122,5 +122,15 @@
     "state": "Gandaki",
     "bio": "Scientist and social entrepreneur; running independently to promote national research and innovation policy.", 
 "photo": "/images/Mahabir Pun.jpg"
+  },
+ {
+    "id": "13",
+    "name": "Pradip Poudel",
+    "party": "Nepali Congress",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "General Secratary of Nepali Congress; former Nepalese Minister of Health and Population.", 
+"photo": "/images/Pradip Poudel.jpg"
   }
 ]
