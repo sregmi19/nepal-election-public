@@ -1,0 +1,86 @@
+/* Global page styling */
+body {
+  margin: 0;
+  background-color: #f4f6f8;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Page title */
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #1f2937;
+}
+
+/* Filters section */
+.filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.filters select {
+  padding: 0.6rem 0.8rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  min-width: 180px;
+}
+
+/* Candidate grid */
+.candidate-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Candidate card */
+.candidate-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.candidate-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
+}
+
+/* Candidate photo */
+.candidate-photo {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+}
+
+/* Candidate text */
+.candidate-card h2 {
+  margin: 0.5rem 0;
+  font-size: 1.25rem;
+  color: #111827;
+}
+
+.candidate-card p {
+  margin: 0.3rem 0;
+  font-size: 0.95rem;
+  color: #374151;
+}
+
+/* Empty state */
+.candidate-list p {
+  text-align: center;
+  grid-column: 1 / -1;
+  color: #6b7280;
+}

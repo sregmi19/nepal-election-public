@@ -1,0 +1,126 @@
+[
+  {
+    "id": "1",
+    "name": "Balendra (Balen) Shah",
+    "party": "RSP",
+    "constituency": "Jhapa 5",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "Former Mayor of Kathmandu; campaigning on a platform of urban reform and the 'Gen Z' movement to challenge the political old guard.",
+"photo": "/images/Balendra (Balen) Shah.jpg"
+  },
+  {
+    "id": "2",
+    "name": "K.P. Sharma Oli",
+    "party": "CPN (UML)",
+    "constituency": "Jhapa 5",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "Chairman of CPN-UML and two-time Prime Minister; defending his long-held stronghold against new wave challengers.",
+"photo": "/images/K.P. Sharma Oli.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Gagan Kumar Thapa",
+    "party": "Nepali Congress",
+    "constituency": "Sarlahi 4",
+    "district": "Sarlahi",
+    "state": "Madhesh",
+    "bio": "President of Nepali Congress; shifted his constituency from Kathmandu to Sarlahi to lead the party's influence in the Madhesh region.",
+"photo": "/images/gagan thapa.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Rabi Lamichhane",
+    "party": "RSP",
+    "constituency": "Chitwan 2",
+    "district": "Chitwan",
+    "state": "Bagmati",
+    "bio": "President of Rastriya Swatantra Party; running on an anti-corruption and good governance agenda.",
+"photo": "/images/Rabi Lamichhane.jpg"
+
+  },
+  {
+    "id": "5",
+    "name": "Pushpa Kamal Dahal (Prachanda)",
+    "party": "Nepali Communist Party",
+    "constituency": "Eastern Rukum 1",
+    "district": "Eastern Rukum",
+    "state": "Lumbini",
+    "bio": "Leader of the newly merged Nepali Communist Party; moved to Rukum to consolidate his party's traditional base.",
+"photo": "/images/Pushpa Kamal Dahal.jpg"
+
+  },
+  {
+    "id": "6",
+    "name": "Renu Dahal",
+    "party": "Nepali Communist Party",
+    "constituency": "Chitwan 3",
+    "district": "Chitwan",
+    "state": "Bagmati",
+    "bio": "Two-time Mayor of Bharatpur; entering federal politics with a focus on large-scale infrastructure and women's leadership.",
+"photo": "/images/Renu Dahal.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Kulman Ghising",
+    "party": "Ujyaalo Nepal Party",
+    "constituency": "Kathmandu 3",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Former Chief of Nepal Electricity Authority; running with a focus on economic transparency and energy independence.",
+"photo": "/images/Kul Man Ghising.jpg"
+  },
+  {
+    "id": "8",
+    "name": "C.K. Raut",
+    "party": "Janamat Party",
+    "constituency": "Saptari 2",
+    "district": "Saptari",
+    "state": "Madhesh",
+    "bio": "Incumbent representative and Janamat Party leader; focused on agricultural reform and identity-based rights for the Terai.", 
+"photo": "/images/CK Raut.jpg"
+
+  },
+  {
+    "id": "9",
+    "name": "Harka Sampang",
+    "party": "Shram Sanskriti Party",
+    "constituency": "Sunsari 1",
+    "district": "Sunsari",
+    "state": "Koshi",
+    "bio": "Former Mayor of Dharan; known for his grassroots labor-focused movement and water management projects.", 
+"photo": "/images/Harka Sampang.jpg"
+
+  },
+  {
+    "id": "10",
+    "name": "Sobita Gautam",
+    "party": "RSP",
+    "constituency": "Chitwan 3",
+    "district": "Chitwan",
+    "state": "Bagmati",
+    "bio": "Young advocate and former MP from Kathmandu 2; shifted to Chitwan to represent youth interests in a high-profile battle.", 
+"photo": "/images/Sobita Gautam.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Rajendra Prasad Lingden",
+    "party": "RPP",
+    "constituency": "Jhapa 3",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "Chairman of Rastriya Prajatantra Party; advocating for a constitutional monarchy and a return to a Hindu State.", 
+"photo": "/images/Rajendra Prasad Lingden.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Mahabir Pun",
+    "party": "Independent",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "Scientist and social entrepreneur; running independently to promote national research and innovation policy.", 
+"photo": "/images/Mahabir Pun.jpg"
+  }
+]
