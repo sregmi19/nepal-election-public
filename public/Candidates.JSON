@@ -1173,5 +1173,385 @@
     "state": "Koshi",
     "bio": "",
     "photo": "images/Ramesh Prasad Ojha.jpg"
+  }, 
+{
+    "id": 118,
+    "name": "Dinesh Bhandari",
+    "party": "RSP",
+    "constituency": "Dhankuta",
+    "district": "Dhankuta",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Dinesh Bhandari.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Bimal Gadal",
+    "party": "RSP",
+    "constituency": "Ilam 1",
+    "district": "Ilam",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Bimal Gadal.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Gokul B. Rai",
+    "party": "RSP",
+    "constituency": "Ilam 2",
+    "district": "Ilam",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Gokul B. Rai.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Nisha Dangi",
+    "party": "RSP",
+    "constituency": "Jhapa 1",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Nisha Dangi.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Indira Rana Magar",
+    "party": "RSP",
+    "constituency": "Jhapa 2",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Indira Rana Magar.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Prakash Pathak",
+    "party": "RSP",
+    "constituency": "Jhapa 3",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Prakash Pathak.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Sambhu Prasad Dhakal",
+    "party": "RSP",
+    "constituency": "Jhapa 4",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Sambhu Prasad Dhakal.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Rudra Giri",
+    "party": "RSP",
+    "constituency": "Khotang",
+    "district": "Khotang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Rudra Giri.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Yagya Mani Neupane",
+    "party": "RSP",
+    "constituency": "Morang 1",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Yagya Mani Neupane.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Krishna Kumar Karki",
+    "party": "RSP",
+    "constituency": "Morang 2",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Krishna Kumar Karki.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Ganesh Dhimal",
+    "party": "RSP",
+    "constituency": "Bara 1",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ganesh Dhimal.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Chandan Kumar Singh",
+    "party": "RSP",
+    "constituency": "Bara 2",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Chandan Kumar Singh.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Aravind Sah",
+    "party": "RSP",
+    "constituency": "Bara 3",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Aravind Sah.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Rahbar Ansari",
+    "party": "RSP",
+    "constituency": "Bara 4",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rahbar Ansari.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Kishori Shah Kamal",
+    "party": "RSP",
+    "constituency": "Dhanusha 1",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Kishori Shah Kamal.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Ram Binod Yadav",
+    "party": "RSP",
+    "constituency": "Dhanusha 2",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ram Binod Yadav.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Manish Jha",
+    "party": "RSP",
+    "constituency": "Dhanusha 3",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Manish Jha.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Raj Kishor Mahato",
+    "party": "RSP",
+    "constituency": "Dhanusha 4",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Raj Kishor Mahato.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Pramod Kumar Mahato",
+    "party": "RSP",
+    "constituency": "Mahottari 1",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Pramod Kumar Mahato.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Dipak Kumar Shah",
+    "party": "RSP",
+    "constituency": "Mahottari 2",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Dipak Kumar Shah.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Ujjwal Kumar Jha",
+    "party": "RSP",
+    "constituency": "Mahottari 3",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ujjwal Kumar Jha.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Gauri Kumari Yadav",
+    "party": "RSP",
+    "constituency": "Mahottari 4",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Gauri Kumari Yadav.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Dhananjaya Regmi",
+    "party": "RSP",
+    "constituency": "Syangja 1",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Dhananjaya Regmi.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Jhabi Lal Dumre",
+    "party": "RSP",
+    "constituency": "Syangja 2",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Jhabi Lal Dumre.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Dr. Swarnim Wagle",
+    "party": "RSP",
+    "constituency": "Tanahun 1",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Dr. Swarnim Wagle.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Shriram Neupane",
+    "party": "RSP",
+    "constituency": "Tanahun 2",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Shriram Neupane.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Sushil Khadka",
+    "party": "RSP",
+    "constituency": "Baglung 1",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Sushil Khadka.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Som Sharma",
+    "party": "RSP",
+    "constituency": "Baglung 2",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Som Sharma.jpg"
+  }, 
+{
+    "id": 146,
+    "name": "Sudhan Gurung",
+    "party": "RSP",
+    "constituency": "Gorkha 1",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Sudhan Gurung.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Kabindra Burlakoti",
+    "party": "RSP",
+    "constituency": "Gorkha 2",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Kabindra Burlakoti.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Khadak Raj Poudel",
+    "party": "RSP",
+    "constituency": "Kaski 1",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Khadak Raj Poudel.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Uttam Prasad Poudel",
+    "party": "RSP",
+    "constituency": "Kaski 2",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Uttam Prasad Poudel.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Bina Gurung",
+    "party": "RSP",
+    "constituency": "Kaski 3",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Bina Gurung.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Dharma Raj KC",
+    "party": "RSP",
+    "constituency": "Lamjung",
+    "district": "Lamjung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Dharma Raj KC.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Aditya Chandra Thakali",
+    "party": "RSP",
+    "constituency": "Mustang",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Aditya Chandra Thakali.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Sagar Bhusal",
+    "party": "RSP",
+    "constituency": "Parbat",
+    "district": "Parbat",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Sagar Bhusal.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Rajan Gautam",
+    "party": "RSP",
+    "constituency": "Nawalpur 1",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Rajan Gautam.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Manish Khanal",
+    "party": "RSP",
+    "constituency": "Nawalpur 2",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Manish Khanal.jpg"
   }
 ]
