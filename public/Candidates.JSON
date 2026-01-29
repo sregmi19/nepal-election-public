@@ -172,5 +172,336 @@
     "state": "Bagmati",
     "bio": "Actor",
     "photo": "images/Nisha Adhikari.jpg"
+  },
+{
+    "id": 18,
+    "name": "Sishir Khanal",
+    "party": "RSP",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": ""
+  },
+{
+    "id": 19,
+    "name": "Aman Maskey",
+    "party": "CPN (UML)",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Aman Maskey.jpg"
+  },
+{
+    "id": 20,
+    "name": "Krishna Baniya (Sabuj)",
+    "party": "Nepali Congress",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Krishna Baniya (Sabuj).jpg"
+  },
+  {
+    "id": 21,
+    "name": "Himal Sharma",
+    "party": "Nepali Communist Party",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Himal Sharma.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Uddav Raj Bhetwal",
+    "party": "RPP",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Uddav Raj Bhetwal.jpg"
+  },
+
+  {
+    "id": 23,
+    "name": "Sachin Timelsena",
+    "party": "Nepali Congress",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Sachin Timelsena.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Rajan Bhattarai",
+    "party": "CPN (UML)",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Rajan Bhattarai.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Pukar Bam",
+    "party": "RSP",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Pukar Bam.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Indra Kumar Bhusal",
+    "party": "Nepali Communist Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Indra Kumar Bhusal.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Surendra Raj Bhandari",
+    "party": "RPP",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Surendra Raj Bhandari.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Chabi Bahadur Khanal",
+    "party": "Janamorcha",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Chabi Bahadur Khanal.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Ashalal Shrestha",
+    "party": "Nepal Majdoor Kisan Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Ashalal Shrestha.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Chet Bahadur Ale",
+    "party": "Rastriya Janamukti Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Chet Bahadur Ale.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Sita Tamag",
+    "party": "Mangol National Organization",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Sita Tamag.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Prem Kumar Rai",
+    "party": "Miteri Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Prem Kumar Rai.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Shyam Kumar Bhattarai",
+    "party": "Nepal ka lagi Nepali",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Shyam Kumar Bhattarai.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Dutta Buda",
+    "party": "Pragatishil Lokatantrik Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Dutta Buda.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Muskan Poudel",
+    "party": "United Nepal Democratic Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Muskan Poudel.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Rajan Puri",
+    "party": "Jay Matribhumi Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Rajan Puri.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Barun Amatya",
+    "party": "Shram Saskriti Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Barun Amatya.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Karishma Kharel",
+    "party": "Nepal Communist Party (Maobadi)",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Karishma Kharel.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Jhanak Bahadur Adhikari",
+    "party": "Ujayalo Nepal Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Jhanak Bahadur Adhikari.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Kemsh Singh",
+    "party": "Janadesh Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Kemsh Singh.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Madandev Acharya",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Madandev Acharya.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Pujan Gajurel",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Pujan Gajurel.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Archan Sumsher Rana",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Archan Sumsher Rana.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Binod Babu Pradhan",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Binod Babu Pradhan.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Diperndra Kafle",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Diperndra Kafle.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Kedar Bahadur Karki",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Kedar Bahadur Karki.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Manoj Adhikari",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Manoj Adhikari.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Aashish Shrestha",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Aashish Shrestha.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Sanjiv Darji",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Sanjiv Darji.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Devraj Poudel",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Devraj Poudel.jpg"
   }
 ]
