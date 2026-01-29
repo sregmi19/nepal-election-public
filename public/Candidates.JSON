@@ -963,5 +963,215 @@
     "state": "Koshi",
     "bio": "",
     "photo": "images/Birendra Shrestha.jpg"
+  }, 
+{
+    "id": 97,
+    "name": "Puspha Kumari Chaudhary",
+    "party": "RSP",
+    "constituency": "Saptari 1",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Puspha Kumari Chaudhary.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Ramji Yadav",
+    "party": "RSP",
+    "constituency": "Saptari 2",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ramji Yadav.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Dr. Amar Kanta Chaudhary",
+    "party": "RSP",
+    "constituency": "Saptari 3",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Dr. Amar Kanta Chaudhary.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Sita Ram Sah",
+    "party": "RSP",
+    "constituency": "Saptari 4",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Sita Ram Sah.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Nitima Bhandari Karki",
+    "party": "RSP",
+    "constituency": "Sarlahi 1",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Nitima BHandari Karki.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Rabin Mahato",
+    "party": "RSP",
+    "constituency": "Sarlahi 2",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rabin Mahato.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Narendra Sah Kalawar",
+    "party": "RSP",
+    "constituency": "Sarlahi 3",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Narendra Sah Kalawar.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Amresh Kumar Singh",
+    "party": "RSP",
+    "constituency": "Sarlahi 4",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Amresh Kumar Singh.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Bablu Gupta",
+    "party": "RSP",
+    "constituency": "Siraha 1",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Bablu Gupta.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Shiv Shankar Yadav",
+    "party": "RSP",
+    "constituency": "Siraha 2",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Shiv Shankar Yadav.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Dr. Sambhi Kumar Yadav",
+    "party": "RSP",
+    "constituency": "Siraha 3",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Dr. Sambhi Kumar Yadav.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Tapeshwor Yadav",
+    "party": "RSP",
+    "constituency": "Siraha 4",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Tapeshwor Yadav.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Buddhi Prasad Pant",
+    "party": "RSP",
+    "constituency": "Parsa 1",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Buddhi Prasad Pant.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Sushil Kumar Kanu",
+    "party": "RSP",
+    "constituency": "Parsa 2",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Sushil Kumar Kanu.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Ramakant Chaurasiya",
+    "party": "RSP",
+    "constituency": "Parsa 3",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ramakant Chaurasiya.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Tek B. Shakya",
+    "party": "RSP",
+    "constituency": "Parsa 4",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Tek B. Shakya.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Rajesh Kumar Chaudhary",
+    "party": "RSP",
+    "constituency": "Rautahat 1",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rajesh Kumar Chaudhary.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Sekh Samir",
+    "party": "RSP",
+    "constituency": "Rautahat 2",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Sekh Samir.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Rabindra Patel",
+    "party": "RSP",
+    "constituency": "Rautahat 3",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rabindra Patel.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Ganesh Poudel",
+    "party": "RSP",
+    "constituency": "Rautahat 4",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ganesh Poudel.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Ramesh Prasad Ojha",
+    "party": "RSP",
+    "constituency": "Bhojpur",
+    "district": "Bhojpur",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Ramesh Prasad Ojha.jpg"
   }
 ]
