@@ -503,5 +503,35 @@
     "state": "Bagmati",
     "bio": "",
     "photo": "images/Devraj Poudel.jpg"
+  }, 
+{
+    "id": 51,
+    "name": "Bishnu Poudel",
+    "party": "CPN (UML)",
+    "constituency": "Rupandehi 2",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Bishnu Poudel.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Chunnu Poudel",
+    "party": "Nepali Congress",
+    "constituency": "Rupandehi 2",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Chunnu Poudel.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Sulav Kharel",
+    "party": "RSP",
+    "constituency": "Rupandehi 2",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Sulav Kharel.jpg"
   }
 ]
