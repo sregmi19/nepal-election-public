@@ -1,0 +1,2647 @@
+[
+  {
+    "id": "1",
+    "name": "Balendra (Balen) Shah",
+    "party": "RSP",
+    "constituency": "Jhapa 5",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "Former Mayor of Kathmandu; campaigning on a platform of urban reform and the 'Gen Z' movement to challenge the political old guard.",
+"photo": "/images/Balendra (Balen) Shah.jpg"
+  },
+  {
+    "id": "2",
+    "name": "K.P. Sharma Oli",
+    "party": "CPN (UML)",
+    "constituency": "Jhapa 5",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "Chairman of CPN-UML and two-time Prime Minister; defending his long-held stronghold against new wave challengers.",
+"photo": "/images/K.P. Sharma Oli.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Gagan Kumar Thapa",
+    "party": "Nepali Congress",
+    "constituency": "Sarlahi 4",
+    "district": "Sarlahi",
+    "state": "Madhesh",
+    "bio": "President of Nepali Congress; shifted his constituency from Kathmandu to Sarlahi to lead the party's influence in the Madhesh region.",
+"photo": "/images/gagan thapa.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Rabi Lamichhane",
+    "party": "RSP",
+    "constituency": "Chitwan 2",
+    "district": "Chitwan",
+    "state": "Bagmati",
+    "bio": "President of Rastriya Swatantra Party; running on an anti-corruption and good governance agenda.",
+"photo": "/images/Rabi Lamichhane.jpg"
+
+  },
+  {
+    "id": "5",
+    "name": "Pushpa Kamal Dahal (Prachanda)",
+    "party": "Nepali Communist Party",
+    "constituency": "Eastern Rukum 1",
+    "district": "Eastern Rukum",
+    "state": "Lumbini",
+    "bio": "Leader of the newly merged Nepali Communist Party; moved to Rukum to consolidate his party's traditional base.",
+"photo": "/images/Pushpa Kamal Dahal.jpg"
+
+  },
+  {
+    "id": "6",
+    "name": "Renu Dahal",
+    "party": "Nepali Communist Party",
+    "constituency": "Chitwan 3",
+    "district": "Chitwan",
+    "state": "Bagmati",
+    "bio": "Two-time Mayor of Bharatpur; entering federal politics with a focus on large-scale infrastructure and women's leadership.",
+"photo": "/images/Renu Dahal.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Kulman Ghising",
+    "party": "Ujyaalo Nepal Party",
+    "constituency": "Kathmandu 3",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Former Chief of Nepal Electricity Authority; running with a focus on economic transparency and energy independence.",
+"photo": "/images/Kul Man Ghising.jpg"
+  },
+  {
+    "id": "8",
+    "name": "C.K. Raut",
+    "party": "Janamat Party",
+    "constituency": "Saptari 2",
+    "district": "Saptari",
+    "state": "Madhesh",
+    "bio": "Incumbent representative and Janamat Party leader; focused on agricultural reform and identity-based rights for the Terai.", 
+"photo": "/images/CK Raut.jpg"
+
+  },
+  {
+    "id": "9",
+    "name": "Harka Sampang",
+    "party": "Shram Sanskriti Party",
+    "constituency": "Sunsari 1",
+    "district": "Sunsari",
+    "state": "Koshi",
+    "bio": "Former Mayor of Dharan; known for his grassroots labor-focused movement and water management projects.", 
+"photo": "/images/Harka Sampang.jpg"
+
+  },
+  {
+    "id": "10",
+    "name": "Sobita Gautam",
+    "party": "RSP",
+    "constituency": "Chitwan 3",
+    "district": "Chitwan",
+    "state": "Bagmati",
+    "bio": "Young advocate and former MP from Kathmandu 2; shifted to Chitwan to represent youth interests in a high-profile battle.", 
+"photo": "/images/Sobita Gautam.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Rajendra Prasad Lingden",
+    "party": "RPP",
+    "constituency": "Jhapa 3",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "Chairman of Rastriya Prajatantra Party; advocating for a constitutional monarchy and a return to a Hindu State.", 
+"photo": "/images/Rajendra Prasad Lingden.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Mahabir Pun",
+    "party": "Independent",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "Scientist and social entrepreneur; running independently to promote national research and innovation policy.", 
+"photo": "/images/Mahabir Pun.jpg"
+  },
+ {
+    "id": "13",
+    "name": "Pradip Poudel",
+    "party": "Nepali Congress",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "General Secratary of Nepali Congress; former Nepalese Minister of Health and Population.", 
+"photo": "/images/Pradip Poudel.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ishwor Pokherel",
+    "party": "CPN (UML)",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Deputy Prime Minister of Nepal. He was also Minister of Defence in the Second Oli cabinet.",
+    "photo": "images/Ishwor Pokherel.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Kamal Thapa",
+    "party": "RPP",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Former President of RPP, Former Home Minister",
+    "photo": "images/Kamal Thapa.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Sasmit Pokherel",
+    "party": "RSP",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Previously served as an associate expert at the KMC City Planning Commission. He contested the 2022 provincial election as an independent candidate from Kathmandu Constituency-5 (A) and was previously associated with Bibeksheel Sajha.",
+    "photo": "images/Sasmit Pokherel.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Nisha Adhikari",
+    "party": "GLP",
+    "constituency": "Kathmandu 5",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "Actor",
+    "photo": "images/Nisha Adhikari.jpg"
+  },
+{
+    "id": 18,
+    "name": "Sishir Khanal",
+    "party": "RSP",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": ""
+  },
+{
+    "id": 19,
+    "name": "Aman Maskey",
+    "party": "CPN (UML)",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Aman Maskey.jpg"
+  },
+{
+    "id": 20,
+    "name": "Krishna Baniya (Sabuj)",
+    "party": "Nepali Congress",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Krishna Baniya (Sabuj).jpg"
+  },
+  {
+    "id": 21,
+    "name": "Himal Sharma",
+    "party": "Nepali Communist Party",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Himal Sharma.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Uddav Raj Bhetwal",
+    "party": "RPP",
+    "constituency": "Kathmandu 6",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Uddav Raj Bhetwal.jpg"
+  },
+
+  {
+    "id": 23,
+    "name": "Sachin Timelsena",
+    "party": "Nepali Congress",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Sachin Timelsena.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Rajan Bhattarai",
+    "party": "CPN (UML)",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Rajan Bhattarai.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Pukar Bam",
+    "party": "RSP",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Pukar Bam.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Indra Kumar Bhusal",
+    "party": "Nepali Communist Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Indra Kumar Bhusal.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Surendra Raj Bhandari",
+    "party": "RPP",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Surendra Raj Bhandari.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Chabi Bahadur Khanal",
+    "party": "Janamorcha",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Chabi Bahadur Khanal.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Ashalal Shrestha",
+    "party": "Nepal Majdoor Kisan Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Ashalal Shrestha.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Chet Bahadur Ale",
+    "party": "Rastriya Janamukti Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Chet Bahadur Ale.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Sita Tamag",
+    "party": "Mangol National Organization",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Sita Tamag.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Prem Kumar Rai",
+    "party": "Miteri Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Prem Kumar Rai.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Shyam Kumar Bhattarai",
+    "party": "Nepal ka lagi Nepali",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Shyam Kumar Bhattarai.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Dutta Buda",
+    "party": "Pragatishil Lokatantrik Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Dutta Buda.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Muskan Poudel",
+    "party": "United Nepal Democratic Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Muskan Poudel.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Rajan Puri",
+    "party": "Jay Matribhumi Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Rajan Puri.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Barun Amatya",
+    "party": "Shram Saskriti Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Barun Amatya.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Karishma Kharel",
+    "party": "Nepal Communist Party (Maobadi)",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Karishma Kharel.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Jhanak Bahadur Adhikari",
+    "party": "Ujayalo Nepal Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Jhanak Bahadur Adhikari.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Kemsh Singh",
+    "party": "Janadesh Party",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Kemsh Singh.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Madandev Acharya",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Madandev Acharya.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Pujan Gajurel",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Pujan Gajurel.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Archan Sumsher Rana",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Archan Sumsher Rana.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Binod Babu Pradhan",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Binod Babu Pradhan.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Diperndra Kafle",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Diperndra Kafle.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Kedar Bahadur Karki",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Kedar Bahadur Karki.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Manoj Adhikari",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Manoj Adhikari.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Aashish Shrestha",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Aashish Shrestha.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Sanjiv Darji",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Sanjiv Darji.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Devraj Poudel",
+    "party": "Independent",
+    "constituency": "Kathmandu 4",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Devraj Poudel.jpg"
+  }, 
+{
+    "id": 51,
+    "name": "Bishnu Poudel",
+    "party": "CPN (UML)",
+    "constituency": "Rupandehi 2",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Bishnu Poudel.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Chunnu Poudel",
+    "party": "Nepali Congress",
+    "constituency": "Rupandehi 2",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Chunnu Poudel.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Sulav Kharel",
+    "party": "RSP",
+    "constituency": "Rupandehi 2",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Sulav Kharel.jpg"
+  }, 
+  {
+    "id": 54,
+    "name": "Prashant Upreti",
+    "party": "RSP",
+    "constituency": "Makawanpur 2",
+    "district": "Makawanpur",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Prashant Upreti.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Dr. Bikram Timilsena",
+    "party": "RSP",
+    "constituency": "Nuwakot 1",
+    "district": "Nuwakot",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Dr. Bikram Timilsena.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Dr. Achutam Lamichhanne",
+    "party": "RSP",
+    "constituency": "Nuwakot 2",
+    "district": "",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Dr. Achutam Lamichhanne.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Dr. Krishnahari Budhathoki",
+    "party": "RSP",
+    "constituency": "Ramechhap 1",
+    "district": "Ramechhap",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Dr. Krishnahari Budhathoki.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Basant Bhatta",
+    "party": "RSP",
+    "constituency": "Rasuwa 1",
+    "district": "Rasuwa",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Basant Bhatta.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Dhanendra Karki",
+    "party": "RSP",
+    "constituency": "Sindhuli 1",
+    "district": "Sindhuli",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Dhanendra Karki.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Aashish Gajurel",
+    "party": "RSP",
+    "constituency": "Sindhuli 2",
+    "district": "Sindhuli",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Aashish Gajurel.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Bharat Prasad Parajuli",
+    "party": "RSP",
+    "constituency": "Sindhupalchowk 1",
+    "district": "Sindhupalchowk",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Bharat Prasad Parajuli.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Jhalak Kumar Shrestha",
+    "party": "RSP",
+    "constituency": "Sindhupalchowk 2",
+    "district": "Sindhupalchowk",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Jhalak Kumar Shrestha.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Raju Pandey",
+    "party": "RSP",
+    "constituency": "Kathmandu 3",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Raju Pandey.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Ganesh Parajuli",
+    "party": "RSP",
+    "constituency": "Kathmandu 7",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Ganesh Parajuli.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Biraj Bhakta Shrestha",
+    "party": "RSP",
+    "constituency": "Kathmandu 8",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Biraj Bhakta Shrestha.jpg"
+  },
+  {
+    "id": 66,
+    "name": "D.P. Aryal",
+    "party": "RSP",
+    "constituency": "Kathmandu 9",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/D.P. Aryal.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Pradip Bista",
+    "party": "RSP",
+    "constituency": "Kathmandu 10",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Pradip Bista.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Buddha Ratna Maharjan",
+    "party": "RSP",
+    "constituency": "Lalitpur 1",
+    "district": "Lalitpur",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Buddha Ratna Maharjan.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Jagadish Kharel",
+    "party": "RSP",
+    "constituency": "Lalitpur 2",
+    "district": "Lalitpur",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Jagadish Kharel.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Prakash Gautam",
+    "party": "RSP",
+    "constituency": "Makawanpur 1",
+    "district": "Makawanpur",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Prakash Gautam.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Rukesh Ranjit",
+    "party": "RSP",
+    "constituency": "Bhaktapur 1",
+    "district": "Bhaktapur",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Rukesh Ranjit.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Rajiv Khatri",
+    "party": "RSP",
+    "constituency": "Bhaktapur 2",
+    "district": "Bhaktapur",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Rajiv Khatri.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Hari Dhakal",
+    "party": "RSP",
+    "constituency": "Chitwan 1",
+    "district": "Chitwan",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Hari Dhakal.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Ashika Tamang",
+    "party": "RSP",
+    "constituency": "Dhading 1",
+    "district": "Dhading",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Ashika Tamang.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Bodh Narayan Shrestha",
+    "party": "RSP",
+    "constituency": "Dhading 2",
+    "district": "Dhading",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Bodh Narayan Shrestha.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Er. Jagadish Kharel",
+    "party": "RSP",
+    "constituency": "Dolakha 1",
+    "district": "Dolakha",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Er. Jagadish Kharel.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Madhu Kumar Chaulagain",
+    "party": "RSP",
+    "constituency": "Kavre 1",
+    "district": "Kavre",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Madhu Kumar Chaulagain.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Badan Kumar Bhandari",
+    "party": "RSP",
+    "constituency": "Kavre 2",
+    "district": "Kavre",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Badan Kumar Bhandari.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Ranju Neupane",
+    "party": "RSP",
+    "constituency": "Kathmandu 1",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Ranju Neupane.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Sunil K C",
+    "party": "RSP",
+    "constituency": "Kathmandu 2",
+    "district": "Kathmandu",
+    "state": "Bagmati",
+    "bio": "",
+    "photo": "images/Sunil K C.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Surendra Karki",
+    "party": "RSP",
+    "constituency": "Terhathum",
+    "district": "Terhathum",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Surendra Karki.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Parash Mani Gelal",
+    "party": "RSP",
+    "constituency": "Udayapur 1",
+    "district": "Udayapur",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Parash Mani Gelal.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Surya Bahadur Tamang",
+    "party": "RSP",
+    "constituency": "Udayapur 2",
+    "district": "Udayapur",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Surya Bahadur Tamang.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Rishi Dhan Thulungrai",
+    "party": "RSP",
+    "constituency": "Solukhumbu",
+    "district": "Solukhumbu",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Rishi Dhan Thulungrai.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Ganesh Karki",
+    "party": "RSP",
+    "constituency": "Morang 3",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Ganesh Karki.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Santosh Rajbanshi",
+    "party": "RSP",
+    "constituency": "Morang 4",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Santosh Rajbanshi.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Aasha Jha",
+    "party": "RSP",
+    "constituency": "Morang 5",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Aasha Jha.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Rubina Acharaya",
+    "party": "RSP",
+    "constituency": "Morang 6",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Rubina Acharaya.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Bishwo Raj Pokherel",
+    "party": "RSP",
+    "constituency": "Okhaldhunga",
+    "district": "Okhaldhunga",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Bishwo Raj Pokherel.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Migma Sherpa",
+    "party": "RSP",
+    "constituency": "Sankhuwasabha",
+    "district": "Sankhuwasabha",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Migma Sherpa.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Mahendra Bikram Thamsuhang",
+    "party": "RSP",
+    "constituency": "Panchthar",
+    "district": "Panchthar",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Mahendra Bikram Thamsuhang.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Goma Tamang",
+    "party": "RSP",
+    "constituency": "Sunsari 1",
+    "district": "Sunsari",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Goma Tamang.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Lal Bikram Thapa",
+    "party": "RSP",
+    "constituency": "Sunsari 2",
+    "district": "Sunsari",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Lal Bikram Thapa.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Ashok Kumar Chaudhari",
+    "party": "RSP",
+    "constituency": "Sunsari 3",
+    "district": "Sunsari",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Ashok Kumar Chaudhari.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Dipak Kumar Shah",
+    "party": "RSP",
+    "constituency": "Sunsari 4",
+    "district": "Sunsari",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Dipak Kumar Shah.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Birendra Shrestha",
+    "party": "RSP",
+    "constituency": "Taplejung",
+    "district": "Taplejung",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Birendra Shrestha.jpg"
+  }, 
+{
+    "id": 97,
+    "name": "Puspha Kumari Chaudhary",
+    "party": "RSP",
+    "constituency": "Saptari 1",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Puspha Kumari Chaudhary.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Ramji Yadav",
+    "party": "RSP",
+    "constituency": "Saptari 2",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ramji Yadav.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Dr. Amar Kanta Chaudhary",
+    "party": "RSP",
+    "constituency": "Saptari 3",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Dr. Amar Kanta Chaudhary.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Sita Ram Sah",
+    "party": "RSP",
+    "constituency": "Saptari 4",
+    "district": "Saptari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Sita Ram Sah.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Nitima Bhandari Karki",
+    "party": "RSP",
+    "constituency": "Sarlahi 1",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Nitima BHandari Karki.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Rabin Mahato",
+    "party": "RSP",
+    "constituency": "Sarlahi 2",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rabin Mahato.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Narendra Sah Kalawar",
+    "party": "RSP",
+    "constituency": "Sarlahi 3",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Narendra Sah Kalawar.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Amresh Kumar Singh",
+    "party": "RSP",
+    "constituency": "Sarlahi 4",
+    "district": "Sarlahi",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Amresh Kumar Singh.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Bablu Gupta",
+    "party": "RSP",
+    "constituency": "Siraha 1",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Bablu Gupta.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Shiv Shankar Yadav",
+    "party": "RSP",
+    "constituency": "Siraha 2",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Shiv Shankar Yadav.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Dr. Sambhi Kumar Yadav",
+    "party": "RSP",
+    "constituency": "Siraha 3",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Dr. Sambhi Kumar Yadav.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Tapeshwor Yadav",
+    "party": "RSP",
+    "constituency": "Siraha 4",
+    "district": "Siraha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Tapeshwor Yadav.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Buddhi Prasad Pant",
+    "party": "RSP",
+    "constituency": "Parsa 1",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Buddhi Prasad Pant.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Sushil Kumar Kanu",
+    "party": "RSP",
+    "constituency": "Parsa 2",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Sushil Kumar Kanu.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Ramakant Chaurasiya",
+    "party": "RSP",
+    "constituency": "Parsa 3",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ramakant Chaurasiya.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Tek B. Shakya",
+    "party": "RSP",
+    "constituency": "Parsa 4",
+    "district": "Parsa",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Tek B. Shakya.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Rajesh Kumar Chaudhary",
+    "party": "RSP",
+    "constituency": "Rautahat 1",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rajesh Kumar Chaudhary.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Sekh Samir",
+    "party": "RSP",
+    "constituency": "Rautahat 2",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Sekh Samir.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Rabindra Patel",
+    "party": "RSP",
+    "constituency": "Rautahat 3",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rabindra Patel.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Ganesh Poudel",
+    "party": "RSP",
+    "constituency": "Rautahat 4",
+    "district": "Rautahat",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ganesh Poudel.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Ramesh Prasad Ojha",
+    "party": "RSP",
+    "constituency": "Bhojpur",
+    "district": "Bhojpur",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Ramesh Prasad Ojha.jpg"
+  }, 
+{
+    "id": 118,
+    "name": "Dinesh Bhandari",
+    "party": "RSP",
+    "constituency": "Dhankuta",
+    "district": "Dhankuta",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Dinesh Bhandari.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Bimal Gadal",
+    "party": "RSP",
+    "constituency": "Ilam 1",
+    "district": "Ilam",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Bimal Gadal.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Gokul B. Rai",
+    "party": "RSP",
+    "constituency": "Ilam 2",
+    "district": "Ilam",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Gokul B. Rai.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Nisha Dangi",
+    "party": "RSP",
+    "constituency": "Jhapa 1",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Nisha Dangi.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Indira Rana Magar",
+    "party": "RSP",
+    "constituency": "Jhapa 2",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Indira Rana Magar.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Prakash Pathak",
+    "party": "RSP",
+    "constituency": "Jhapa 3",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Prakash Pathak.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Sambhu Prasad Dhakal",
+    "party": "RSP",
+    "constituency": "Jhapa 4",
+    "district": "Jhapa",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Sambhu Prasad Dhakal.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Rudra Giri",
+    "party": "RSP",
+    "constituency": "Khotang",
+    "district": "Khotang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Rudra Giri.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Yagya Mani Neupane",
+    "party": "RSP",
+    "constituency": "Morang 1",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Yagya Mani Neupane.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Krishna Kumar Karki",
+    "party": "RSP",
+    "constituency": "Morang 2",
+    "district": "Morang",
+    "state": "Koshi",
+    "bio": "",
+    "photo": "images/Krishna Kumar Karki.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Ganesh Dhimal",
+    "party": "RSP",
+    "constituency": "Bara 1",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ganesh Dhimal.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Chandan Kumar Singh",
+    "party": "RSP",
+    "constituency": "Bara 2",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Chandan Kumar Singh.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Aravind Sah",
+    "party": "RSP",
+    "constituency": "Bara 3",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Aravind Sah.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Rahbar Ansari",
+    "party": "RSP",
+    "constituency": "Bara 4",
+    "district": "Bara",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Rahbar Ansari.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Kishori Shah Kamal",
+    "party": "RSP",
+    "constituency": "Dhanusha 1",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Kishori Shah Kamal.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Ram Binod Yadav",
+    "party": "RSP",
+    "constituency": "Dhanusha 2",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ram Binod Yadav.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Manish Jha",
+    "party": "RSP",
+    "constituency": "Dhanusha 3",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Manish Jha.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Raj Kishor Mahato",
+    "party": "RSP",
+    "constituency": "Dhanusha 4",
+    "district": "Dhanusha",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Raj Kishor Mahato.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Pramod Kumar Mahato",
+    "party": "RSP",
+    "constituency": "Mahottari 1",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Pramod Kumar Mahato.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Dipak Kumar Shah",
+    "party": "RSP",
+    "constituency": "Mahottari 2",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Dipak Kumar Shah.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Ujjwal Kumar Jha",
+    "party": "RSP",
+    "constituency": "Mahottari 3",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Ujjwal Kumar Jha.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Gauri Kumari Yadav",
+    "party": "RSP",
+    "constituency": "Mahottari 4",
+    "district": "Mahottari",
+    "state": "Madesh",
+    "bio": "",
+    "photo": "images/Gauri Kumari Yadav.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Dhananjaya Regmi",
+    "party": "RSP",
+    "constituency": "Syangja 1",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Dhananjaya Regmi.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Jhabi Lal Dumre",
+    "party": "RSP",
+    "constituency": "Syangja 2",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Jhabi Lal Dumre.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Dr. Swarnim Wagle",
+    "party": "RSP",
+    "constituency": "Tanahun 1",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Dr. Swarnim Wagle.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Shriram Neupane",
+    "party": "RSP",
+    "constituency": "Tanahun 2",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Shriram Neupane.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Sushil Khadka",
+    "party": "RSP",
+    "constituency": "Baglung 1",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Sushil Khadka.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Som Sharma",
+    "party": "RSP",
+    "constituency": "Baglung 2",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Som Sharma.jpg"
+  }, 
+{
+    "id": 146,
+    "name": "Sudhan Gurung",
+    "party": "RSP",
+    "constituency": "Gorkha 1",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Sudhan Gurung.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Kabindra Burlakoti",
+    "party": "RSP",
+    "constituency": "Gorkha 2",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Kabindra Burlakoti.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Khadak Raj Poudel",
+    "party": "RSP",
+    "constituency": "Kaski 1",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Khadak Raj Poudel.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Uttam Prasad Poudel",
+    "party": "RSP",
+    "constituency": "Kaski 2",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Uttam Prasad Poudel.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Bina Gurung",
+    "party": "RSP",
+    "constituency": "Kaski 3",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Bina Gurung.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Dharma Raj KC",
+    "party": "RSP",
+    "constituency": "Lamjung",
+    "district": "Lamjung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Dharma Raj KC.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Aditya Chandra Thakali",
+    "party": "RSP",
+    "constituency": "Mustang",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Aditya Chandra Thakali.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Sagar Bhusal",
+    "party": "RSP",
+    "constituency": "Parbat",
+    "district": "Parbat",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Sagar Bhusal.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Rajan Gautam",
+    "party": "RSP",
+    "constituency": "Nawalpur 1",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Rajan Gautam.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Manish Khanal",
+    "party": "RSP",
+    "constituency": "Nawalpur 2",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "images/Manish Khanal.jpg"
+  }, 
+  {
+    "id": 156,
+    "name": "Chandrakanta Bhandari",
+    "party": "Nepali Congress",
+    "constituency": "Gulmi 1",
+    "district": "Gulmi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Chandrakanta Bhandari.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Bhuwan Prasad Shrestha",
+    "party": "Nepali Congress",
+    "constituency": "Gulmi 2",
+    "district": "Gulmi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Bhuwan Prasad Shrestha.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Sandip Rana",
+    "party": "Nepali Congress",
+    "constituency": "Palpa 1",
+    "district": "Palpa",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Sandip Rana.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Himal Dutta Shrestha",
+    "party": "Nepali Congress",
+    "constituency": "Palpa 2",
+    "district": "Palpa",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Himal Dutta Shrestha.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Bishnu Prasad Khanal",
+    "party": "Nepali Congress",
+    "constituency": "Arghakhanchi 1",
+    "district": "Arghakhanchi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Bishnu Prasad Khanal.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Binod Chaudhary",
+    "party": "Nepali Congress",
+    "constituency": "Nawalparasi 1",
+    "district": "Nawalparasi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Binod Chaudhary.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Bharat Thapa",
+    "party": "Nepali Congress",
+    "constituency": "Nawalparasi 2",
+    "district": "Nawalparasi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Bharat Thapa.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Hira Bahadur Khatri",
+    "party": "Nepali Congress",
+    "constituency": "Rupandehi 1",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Hira Bahadur Khatri.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Chun Prasad Paudel",
+    "party": "Nepali Congress",
+    "constituency": "Rupandehi 2",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Chun Prasad Paudel.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Sushil Gurung",
+    "party": "Nepali Congress",
+    "constituency": "Rupandehi 3",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Sushil Gurung.jpg"
+  }, 
+  {
+    "id": 166,
+    "name": "Aasutosh Mishra",
+    "party": "Nepali Congress",
+    "constituency": "Rupandehi 4",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Aasutosh Mishra.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Bharat Kumar Shah",
+    "party": "Nepali Congress",
+    "constituency": "Rupandehi 5",
+    "district": "Rupandehi",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Bharat Kumar Shah.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Atahar Kamal Musalman",
+    "party": "Nepali Congress",
+    "constituency": "Kapilvastu 1",
+    "district": "Kapilvastu",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Atahar Kamal Musalman.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Surendra Raj Acharya",
+    "party": "Nepali Congress",
+    "constituency": "Kapilvastu 2",
+    "district": "Kapilvastu",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Surendra Raj Acharya.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Abhishek Pratap Shah",
+    "party": "Nepali Congress",
+    "constituency": "Kapilvastu 3",
+    "district": "Kapilvastu",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Abhishek Pratap Shah.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Kusum Devi Thapa Magar",
+    "party": "Nepali Congress",
+    "constituency": "Eastern Rukum 1",
+    "district": "Eastern Rukum",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Kusum Devi Thapa Magar.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Sudan Kumar Wali",
+    "party": "Nepali Congress",
+    "constituency": "Rolpa 1",
+    "district": "Rolpa",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Sudan Kumar Wali.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Gobindaj Prasad Pokharel",
+    "party": "Nepali Congress",
+    "constituency": "Pyuthan 1",
+    "district": "Pyuthan",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Gobindaj Prasad Pokharel.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Yogendra Chaudhary",
+    "party": "Nepali Congress",
+    "constituency": "Dang 1",
+    "district": "Dang",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Yogendra Chaudhary.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Kiran Kishor Ghimire",
+    "party": "Nepali Congress",
+    "constituency": "Dang 2",
+    "district": "Dang",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Kiran Kishor Ghimire.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Deepak Giri",
+    "party": "Nepali Congress",
+    "constituency": "Dang 3",
+    "district": "Dang",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Deepak Giri.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Narayan Prasad Paudel",
+    "party": "Nepali Congress",
+    "constituency": "Banke 1",
+    "district": "Banke",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Narayan Prasad Paudel.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Sudhanshu Koirala",
+    "party": "Nepali Congress",
+    "constituency": "Banke 2",
+    "district": "Banke",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Sudhanshu Koirala.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Amar Singh Pun",
+    "party": "Nepali Congress",
+    "constituency": "Banke 3",
+    "district": "Banke",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Amar Singh Pun.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Sanjay Kumar Gautam",
+    "party": "Nepali Congress",
+    "constituency": "Bardiya 1",
+    "district": "Bardiya",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Sanjay Kumar Gautam.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Kishor Shingh Rathore",
+    "party": "Nepali Congress",
+    "constituency": "Bardiya 2",
+    "district": "Bardiya",
+    "state": "Lumbini",
+    "bio": "",
+    "photo": "images/Kishor Shingh Rathore.jpg"
+  }, 
+{
+    "id": 182,
+    "name": "Keshav Bahadur Bista",
+    "party": "Nepali Congress",
+    "constituency": "Salyan 1",
+    "district": "Salyan",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Keshav Bahadur Bista.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Karna Bahadur Budha",
+    "party": "Nepali Congress",
+    "constituency": "Dolpa 1",
+    "district": "Dolpa",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Karna Bahadur Budha.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Khadga Shahi",
+    "party": "Nepali Congress",
+    "constituency": "Mugu 1",
+    "district": "Mugu",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Khadga Shahi.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Dip Bahadur Shahi",
+    "party": "Nepali Congress",
+    "constituency": "Jumla 1",
+    "district": "Jumla",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Dip Bahadur Shahi.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Harsha Bahadur Bam",
+    "party": "Nepali Congress",
+    "constituency": "Kalikot 1",
+    "district": "Kalikot",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Harsha Bahadur Bam.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Jaypati Rokaya",
+    "party": "Nepali Congress",
+    "constituency": "Humla 1",
+    "district": "Humla",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Jaypati Rokaya.jpg"
+  },
+  {
+    "id": 188,
+    "name": "Khadak Bahadur Buda",
+    "party": "Nepali Congress",
+    "constituency": "Jajarkot 1",
+    "district": "Jajarkot",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Khadak Bahadur Buda.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Basana Thapa",
+    "party": "Nepali Congress",
+    "constituency": "Dailekh 1",
+    "district": "Dailekh",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Basana Thapa.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Dikpal Kumar Shahi",
+    "party": "Nepali Congress",
+    "constituency": "Dailekh 2",
+    "district": "Dailekh",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Dikpal Kumar Shahi.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Bishnu Bahadur Khadka",
+    "party": "Nepali Congress",
+    "constituency": "Surkhet 1",
+    "district": "Surkhet",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Bishnu Bahadur Khadka.jpg"
+  },
+  {
+    "id": 192,
+    "name": "Narayan Koirala",
+    "party": "Nepali Congress",
+    "constituency": "Surkhet 2",
+    "district": "Surkhet",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Narayan Koirala.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Raju K.C.",
+    "party": "Nepali Congress",
+    "constituency": "Western Rukum 1",
+    "district": "Western Rukum",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Raju K.C..jpg"
+  },
+  {
+    "id": 194,
+    "name": "Gulab Jung Shah",
+    "party": "CPN (UML)",
+    "constituency": "Salyan 1",
+    "district": "Salyan",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Gulab Jung Shah.jpg"
+  },
+  {
+    "id": 195,
+    "name": "Langka Bahadur Rokaya",
+    "party": "CPN (UML)",
+    "constituency": "Dolpa 1",
+    "district": "Dolpa",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Langka Bahadur Rokaya.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Purna Bahadur Rokaya",
+    "party": "CPN (UML)",
+    "constituency": "Mugu 1",
+    "district": "Mugu",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Purna Bahadur Rokaya.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Shantilal Mahat",
+    "party": "CPN (UML)",
+    "constituency": "Jumla 1",
+    "district": "Jumla",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Shantilal Mahat.jpg"
+  },
+  {
+    "id": 198,
+    "name": "Nagendra Shahi",
+    "party": "CPN (UML)",
+    "constituency": "Kalikot 1",
+    "district": "Kalikot",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Nagendra Shahi.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Dal Phadera",
+    "party": "CPN (UML)",
+    "constituency": "Humla 1",
+    "district": "Humla",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Dal Phadera.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Dambar Bahadur Singh",
+    "party": "CPN (UML)",
+    "constituency": "Jajarkot 1",
+    "district": "Jajarkot",
+    "state": "Karnali",
+    "bio": "",
+    "photo": "images/Dambar Bahadur Singh.jpg"
+  }, 
+{
+    "id": 201,
+    "name": "Janak Raj Giri",
+    "party": "Nepali Congress",
+    "constituency": "Bajura 1",
+    "district": "Bajura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Janak Raj Giri.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Bharat Kumar Swar",
+    "party": "Nepali Congress",
+    "constituency": "Achham 1",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bharat Kumar Swar.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Pushpa Bahadur Shah",
+    "party": "Nepali Congress",
+    "constituency": "Achham 2",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Pushpa Bahadur Shah.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Prakash Rasaili",
+    "party": "Nepali Congress",
+    "constituency": "Bajhang 1",
+    "district": "Bajhang",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Prakash Rasaili.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Bharat Bahadur Khadka",
+    "party": "Nepali Congress",
+    "constituency": "Doti 1",
+    "district": "Doti",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bharat Bahadur Khadka.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Janakraj Chaudhary",
+    "party": "Nepali Congress",
+    "constituency": "Kailali 1",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Janakraj Chaudhary.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Bijay Bahadur Swar",
+    "party": "Nepali Congress",
+    "constituency": "Kailali 2",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bijay Bahadur Swar.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Bhim Baduwal",
+    "party": "Nepali Congress",
+    "constituency": "Kailali 3",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bhim Baduwal.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Gorakh Bahadur Bista",
+    "party": "Nepali Congress",
+    "constituency": "Kailali 4",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Gorakh Bahadur Bista.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Nar Narayan Shah",
+    "party": "Nepali Congress",
+    "constituency": "Kailali 5",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Nar Narayan Shah.jpg"
+  },
+  {
+    "id": 211,
+    "name": "Dharmananda Joshi",
+    "party": "Nepali Congress",
+    "constituency": "Darchula 1",
+    "district": "Darchula",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Dharmananda Joshi.jpg"
+  },
+  {
+    "id": 212,
+    "name": "Chatur Bahadur Chand",
+    "party": "Nepali Congress",
+    "constituency": "Baitadi 1",
+    "district": "Baitadi",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Chatur Bahadur Chand.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Nain Singh Mahar",
+    "party": "Nepali Congress",
+    "constituency": "Dadeldhura 1",
+    "district": "Dadeldhura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Nain Singh Mahar.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Gopi Upadhyaya",
+    "party": "Nepali Congress",
+    "constituency": "Kanchanpur 1",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Gopi Upadhyaya.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Narayan Prakash Saud",
+    "party": "Nepali Congress",
+    "constituency": "Kanchanpur 2",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Narayan Prakash Saud.jpg"
+  },
+  {
+    "id": 216,
+    "name": "Hari Bohara",
+    "party": "Nepali Congress",
+    "constituency": "Kanchanpur 3",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Hari Bohara.jpg"
+  }, 
+  {
+    "id": 217,
+    "name": "Lal Bahadur Thapa",
+    "party": "CPN (UML)",
+    "constituency": "Bajura 1",
+    "district": "Bajura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Lal Bahadur Thapa.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Jhapat Bahadur Bohara",
+    "party": "CPN (UML)",
+    "constituency": "Achham 1",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Jhapat Bahadur Bohara.jpg"
+  },
+  {
+    "id": 219,
+    "name": "Yagya Bahadur Bogati",
+    "party": "CPN (UML)",
+    "constituency": "Achham 2",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Yagya Bahadur Bogati.jpg"
+  },
+  {
+    "id": 220,
+    "name": "Ain Bahadur Mahara",
+    "party": "CPN (UML)",
+    "constituency": "Bajhang 1",
+    "district": "Bajhang",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Ain Bahadur Mahara.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Deepak Dhami",
+    "party": "CPN (UML)",
+    "constituency": "Doti 1",
+    "district": "Doti",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Deepak Dhami.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Dwarika Prasad Neupane",
+    "party": "CPN (UML)",
+    "constituency": "Kailali 1",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Dwarika Prasad Neupane.jpg"
+  },
+  {
+    "id": 223,
+    "name": "Surya Bahadur Thapa",
+    "party": "CPN (UML)",
+    "constituency": "Kailali 2",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Surya Bahadur Thapa.jpg"
+  },
+  {
+    "id": 224,
+    "name": "Gaurishankar Chaudhary",
+    "party": "CPN (UML)",
+    "constituency": "Kailali 3",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Gaurishankar Chaudhary.jpg"
+  },
+  {
+    "id": 225,
+    "name": "Lekhraj Bhatta",
+    "party": "CPN (UML)",
+    "constituency": "Kailali 4",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Lekhraj Bhatta.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Yagyaraj Dhungana",
+    "party": "CPN (UML)",
+    "constituency": "Kailali 5",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Yagyaraj Dhungana.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Ganesh Singh Thagunna",
+    "party": "CPN (UML)",
+    "constituency": "Darchula 1",
+    "district": "Darchula",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Ganesh Singh Thagunna.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Damodar Bhandari",
+    "party": "CPN (UML)",
+    "constituency": "Baitadi 1",
+    "district": "Baitadi",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Damodar Bhandari.jpg"
+  },
+  {
+    "id": 229,
+    "name": "Chakra Prasad Snehi",
+    "party": "CPN (UML)",
+    "constituency": "Dadeldhura 1",
+    "district": "Dadeldhura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Chakra Prasad Snehi.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Tara Lama Tamang",
+    "party": "CPN (UML)",
+    "constituency": "Kanchanpur 1",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Tara Lama Tamang.jpg"
+  },
+  {
+    "id": 231,
+    "name": "Bachan Bahadur Singh",
+    "party": "CPN (UML)",
+    "constituency": "Kanchanpur 2",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bachan Bahadur Singh.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Deepak Prakash Bhatta",
+    "party": "CPN (UML)",
+    "constituency": "Kanchanpur 3",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Deepak Prakash Bhatta.jpg"
+  }, 
+{
+    "id": 233,
+    "name": "Prakash Bahadur Shah",
+    "party": "Nepali Communist Party",
+    "constituency": "Bajura 1",
+    "district": "Bajura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Prakash Bahadur Shah.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Bhim Bahadur Rawal",
+    "party": "Nepali Communist Party",
+    "constituency": "Achham 1",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bhim Bahadur Rawal.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Bal Bahadur Kunwar",
+    "party": "Nepali Communist Party",
+    "constituency": "Achham 2",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bal Bahadur Kunwar.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Meen Bahadur Kunwar",
+    "party": "Nepali Communist Party",
+    "constituency": "Bajhang 1",
+    "district": "Bajhang",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Meen Bahadur Kunwar.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Trilochan Bhatta",
+    "party": "Nepali Communist Party",
+    "constituency": "Doti 1",
+    "district": "Doti",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Trilochan Bhatta.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Ramlal Dagaura Tharu",
+    "party": "Nepali Communist Party",
+    "constituency": "Kailali 1",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Ramlal Dagaura Tharu.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Nanda Bahadur Saud",
+    "party": "Nepali Communist Party",
+    "constituency": "Kailali 2",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Nanda Bahadur Saud.jpg"
+  },
+  {
+    "id": 240,
+    "name": "Beerman Chuadhary",
+    "party": "Nepali Communist Party",
+    "constituency": "Kailali 3",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Beerman Chuadhary.jpg"
+  },
+  {
+    "id": 241,
+    "name": "Hariram Chaudhary",
+    "party": "Nepali Communist Party",
+    "constituency": "Kailali 4",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Hariram Chaudhary.jpg"
+  },
+  {
+    "id": 242,
+    "name": "Prem Bahadur Ale",
+    "party": "Nepali Communist Party",
+    "constituency": "Kailali 5",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Prem Bahadur Ale.jpg"
+  },
+  {
+    "id": 243,
+    "name": "Laxman Dutta Joshi",
+    "party": "Nepali Communist Party",
+    "constituency": "Darchula 1",
+    "district": "Darchula",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Laxman Dutta Joshi.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Parmananda Bhatta",
+    "party": "Nepali Communist Party",
+    "constituency": "Baitadi 1",
+    "district": "Baitadi",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Parmananda Bhatta.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Mansingh Maal",
+    "party": "Nepali Communist Party",
+    "constituency": "Dadeldhura 1",
+    "district": "Dadeldhura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Mansingh Maal.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Bina Magar",
+    "party": "Nepali Communist Party",
+    "constituency": "Kanchanpur 1",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bina Magar.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Madhav Pant",
+    "party": "Nepali Communist Party",
+    "constituency": "Kanchanpur 2",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Madhav Pant.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Maan Bahadur Sunar",
+    "party": "Nepali Communist Party",
+    "constituency": "Kanchanpur 3",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Maan Bahadur Sunar.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Hemraj Thapa",
+    "party": "RSP",
+    "constituency": "Bajura 1",
+    "district": "Bajura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Hemraj Thapa.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Om Prakash Rawal",
+    "party": "RSP",
+    "constituency": "Achham 1",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Om Prakash Rawal.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Bhupadev Shah",
+    "party": "RSP",
+    "constituency": "Achham 2",
+    "district": "Achham",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Bhupadev Shah.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Shailendra Kumar Singh",
+    "party": "RSP",
+    "constituency": "Bajhang 1",
+    "district": "Bajhang",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Shailendra Kumar Singh.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Narendra Bahadur Khadka",
+    "party": "RSP",
+    "constituency": "Doti 1",
+    "district": "Doti",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Narendra Bahadur Khadka.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Komal Gyawali",
+    "party": "RSP",
+    "constituency": "Kailali 1",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Komal Gyawali.jpg"
+  },
+  {
+    "id": 255,
+    "name": "KP Khanal",
+    "party": "RSP",
+    "constituency": "Kailali 2",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/KP Khanal.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Jagat Prasad Joshi",
+    "party": "RSP",
+    "constituency": "Kailali 3",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Jagat Prasad Joshi.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Khemraj Koirala",
+    "party": "RSP",
+    "constituency": "Kailali 4",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Khemraj Koirala.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Ananda Chand",
+    "party": "RSP",
+    "constituency": "Kailali 5",
+    "district": "Kailali",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Ananda Chand.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Rajesh Singh Samant",
+    "party": "RSP",
+    "constituency": "Darchula 1",
+    "district": "Darchula",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Rajesh Singh Samant.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Harimohan Bhandari",
+    "party": "RSP",
+    "constituency": "Baitadi 1",
+    "district": "Baitadi",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Harimohan Bhandari.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Tara Joshi",
+    "party": "RSP",
+    "constituency": "Dadeldhura 1",
+    "district": "Dadeldhura",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Tara Joshi.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Janak Singh Dhami",
+    "party": "RSP",
+    "constituency": "Kanchanpur 1",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Janak Singh Dhami.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Deepak Bohara",
+    "party": "RSP",
+    "constituency": "Kanchanpur 2",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Deepak Bohara.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Gyanendra Mahatara",
+    "party": "RSP",
+    "constituency": "Kanchanpur 3",
+    "district": "Kanchanpur",
+    "state": "Sudurpashchim",
+    "bio": "",
+    "photo": "images/Gyanendra Mahatara.jpg"
+  }
+]
