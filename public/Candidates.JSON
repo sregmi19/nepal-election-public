@@ -607,5 +607,910 @@
   {"id":"536","name":"Renu Dahal","party":"NCP","constituency":"Chitwan 3","district":"Chitwan","state":"Bagmati","bio":"","photo":"Images/Renu Dahal.jpg"},
   {"id":"537","name":"Sobita Gautam","party":"RSP","constituency":"Chitwan 3","district":"Chitwan","state":"Bagmati","bio":"","photo":"Images/Sobita Gautam.jpg"},
   {"id":"538","name":"Dipak Thapa Magar","party":"RPP","constituency":"Chitwan 3","district":"Chitwan","state":"Bagmati","bio":"","photo":"Images/Dipak Thapa Magar.jpg"},
-  {"id":"539","name":"Dambar Bahadur Tamang","party":"UNP","constituency":"Chitwan 3","district":"Chitwan","state":"Bagmati","bio":"","photo":"Images/Dambar Bahadur Tamang.jpg"}
+  {"id":"539","name":"Dambar Bahadur Tamang","party":"UNP","constituency":"Chitwan 3","district":"Chitwan","state":"Bagmati","bio":"","photo":"Images/Dambar Bahadur Tamang.jpg"},
+  {
+    "id": "540",
+    "name": "Prem Kumar Khatri",
+    "party": "Congress",
+    "constituency": "Gorkha 1",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Prem Kumar Khatri.jpg"
+  },
+  {
+    "id": "541",
+    "name": "Ramchandra Lamichhane",
+    "party": "UML",
+    "constituency": "Gorkha 1",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Ramchandra Lamichhane.jpg"
+  },
+  {
+    "id": "542",
+    "name": "Hariraj Adhikari",
+    "party": "NCP",
+    "constituency": "Gorkha 1",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Hariraj Adhikari.jpg"
+  },
+  {
+    "id": "543",
+    "name": "Sudan Gurung",
+    "party": "RSP",
+    "constituency": "Gorkha 1",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Sudan Gurung.jpg"
+  },
+  {
+    "id": "544",
+    "name": "Kedarmani Khanal",
+    "party": "RPP",
+    "constituency": "Gorkha 1",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Kedarmani Khanal.jpg"
+  },
+
+  {
+    "id": "545",
+    "name": "Prakash Chandra Dawadi",
+    "party": "Congress",
+    "constituency": "Gorkha 2",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Prakash Chandra Dawadi.jpg"
+  },
+  {
+    "id": "546",
+    "name": "Milan Gurung",
+    "party": "UML",
+    "constituency": "Gorkha 2",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Milan Gurung.jpg"
+  },
+  {
+    "id": "547",
+    "name": "Lekhnath Neupane",
+    "party": "NCP",
+    "constituency": "Gorkha 2",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Lekhnath Neupane.jpg"
+  },
+  {
+    "id": "548",
+    "name": "Kabindra Burlakoti",
+    "party": "RSP",
+    "constituency": "Gorkha 2",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Kabindra Burlakoti.jpg"
+  },
+  {
+    "id": "549",
+    "name": "Kul Bahadur Basnet",
+    "party": "RPP",
+    "constituency": "Gorkha 2",
+    "district": "Gorkha",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Kul Bahadur Basnet.jpg"
+  },
+
+  {
+    "id": "550",
+    "name": "Tek Bahadur Gurung",
+    "party": "Congress",
+    "constituency": "Manang 1",
+    "district": "Manang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Tek Bahadur Gurung.jpg"
+  },
+  {
+    "id": "551",
+    "name": "Yasodha Subedi Gurung",
+    "party": "NCP",
+    "constituency": "Manang 1",
+    "district": "Manang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Yasodha Subedi Gurung.jpg"
+  },
+
+  {
+    "id": "552",
+    "name": "Gam Prasad Gurung",
+    "party": "Congress",
+    "constituency": "Lamjung 1",
+    "district": "Lamjung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Gam Prasad Gurung.jpg"
+  },
+  {
+    "id": "553",
+    "name": "Prithvi Subba Gurung",
+    "party": "UML",
+    "constituency": "Lamjung 1",
+    "district": "Lamjung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Prithvi Subba Gurung.jpg"
+  },
+  {
+    "id": "554",
+    "name": "Hari Jung Tamang",
+    "party": "NCP",
+    "constituency": "Lamjung 1",
+    "district": "Lamjung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Hari Jung Tamang.jpg"
+  },
+  {
+    "id": "555",
+    "name": "Dharma Raj K.C.",
+    "party": "RSP",
+    "constituency": "Lamjung 1",
+    "district": "Lamjung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Dharma Raj K.C..jpg"
+  },
+  {
+    "id": "556",
+    "name": "Kebindra Jung Gurung",
+    "party": "RPP",
+    "constituency": "Lamjung 1",
+    "district": "Lamjung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Kebindra Jung Gurung.jpg"
+  },   
+   {
+    "id": "557",
+    "name": "Tilak Bahadur Ranabhat",
+    "party": "Congress",
+    "constituency": "Kaski 1",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Tilak Bahadur Ranabhat.jpg"
+  },
+  {
+    "id": "558",
+    "name": "Bain Bahadur Chhetri",
+    "party": "UML",
+    "constituency": "Kaski 1",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bain Bahadur Chhetri.jpg"
+  },
+  {
+    "id": "559",
+    "name": "Ramkaji Gurung",
+    "party": "NCP",
+    "constituency": "Kaski 1",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Ramkaji Gurung.jpg"
+  },
+  {
+    "id": "560",
+    "name": "Khadak Raj Paudel",
+    "party": "RSP",
+    "constituency": "Kaski 1",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Khadak Raj Paudel.jpg"
+  },
+  {
+    "id": "561",
+    "name": "Baburam Thapa",
+    "party": "RPP",
+    "constituency": "Kaski 1",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Baburam Thapa.jpg"
+  },
+
+  {
+    "id": "562",
+    "name": "Madhav Prasad Bastola",
+    "party": "Congress",
+    "constituency": "Kaski 2",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Madhav Prasad Bastola.jpg"
+  },
+  {
+    "id": "563",
+    "name": "Rashmi Acharya",
+    "party": "UML",
+    "constituency": "Kaski 2",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Rashmi Acharya.jpg"
+  },
+  {
+    "id": "564",
+    "name": "Hem Bahadur Thapa",
+    "party": "NCP",
+    "constituency": "Kaski 2",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Hem Bahadur Thapa.jpg"
+  },
+  {
+    "id": "565",
+    "name": "Uttam Paudel",
+    "party": "RSP",
+    "constituency": "Kaski 2",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Uttam Paudel.jpg"
+  },
+  {
+    "id": "566",
+    "name": "Hemjung Gurung",
+    "party": "RPP",
+    "constituency": "Kaski 2",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Hemjung Gurung.jpg"
+  },
+
+  {
+    "id": "567",
+    "name": "Manoj Gurung",
+    "party": "Congress",
+    "constituency": "Kaski 3",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Manoj Gurung.jpg"
+  },
+  {
+    "id": "568",
+    "name": "Damodar Bairagi",
+    "party": "UML",
+    "constituency": "Kaski 3",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Damodar Bairagi.jpg"
+  },
+  {
+    "id": "569",
+    "name": "Gopak Guru",
+    "party": "NCP",
+    "constituency": "Kaski 3",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Gopak Guru.jpg"
+  },
+  {
+    "id": "570",
+    "name": "Bina Gurung",
+    "party": "RSP",
+    "constituency": "Kaski 3",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bina Gurung.jpg"
+  },
+  {
+    "id": "571",
+    "name": "Arjun Khanal",
+    "party": "RPP",
+    "constituency": "Kaski 3",
+    "district": "Kaski",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Arjun Khanal.jpg"
+  },
+
+  {
+    "id": "572",
+    "name": "Gobinda Bhattarai",
+    "party": "Congress",
+    "constituency": "Tanahun 1",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Gobinda Bhattarai.jpg"
+  },
+  {
+    "id": "573",
+    "name": "Bhagwati Neupane",
+    "party": "UML",
+    "constituency": "Tanahun 1",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bhagwati Neupane.jpg"
+  },
+  {
+    "id": "574",
+    "name": "Bidyanath Dhakal",
+    "party": "NCP",
+    "constituency": "Tanahun 1",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bidyanath Dhakal.jpg"
+  },
+  {
+    "id": "575",
+    "name": "Swarnim Wagle",
+    "party": "RSP",
+    "constituency": "Tanahun 1",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Swarnim Wagle.jpg"
+  },
+  {
+    "id": "576",
+    "name": "Abhishek Joshi",
+    "party": "RPP",
+    "constituency": "Tanahun 1",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Abhishek Joshi.jpg"
+  },
+
+  {
+    "id": "577",
+    "name": "Shankar Bhandari",
+    "party": "Congress",
+    "constituency": "Tanahun 2",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Shankar Bhandari.jpg"
+  },
+  {
+    "id": "578",
+    "name": "Kedar Sigdel",
+    "party": "UML",
+    "constituency": "Tanahun 2",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Kedar Sigdel.jpg"
+  },
+  {
+    "id": "579",
+    "name": "Som Bahadur Thapa",
+    "party": "NCP",
+    "constituency": "Tanahun 2",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Som Bahadur Thapa.jpg"
+  },
+  {
+    "id": "580",
+    "name": "Shreeram Neupane",
+    "party": "RSP",
+    "constituency": "Tanahun 2",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Shreeram Neupane.jpg"
+  },
+  {
+    "id": "581",
+    "name": "Yam Bahadur Khand",
+    "party": "RPP",
+    "constituency": "Tanahun 2",
+    "district": "Tanahun",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Yam Bahadur Khand.jpg"
+  },
+
+  {
+    "id": "582",
+    "name": "Arjun Prasad Joshi",
+    "party": "Congress",
+    "constituency": "Parbat 1",
+    "district": "Parbat",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Arjun Prasad Joshi.jpg"
+  },
+  {
+    "id": "583",
+    "name": "Padam Giri",
+    "party": "UML",
+    "constituency": "Parbat 1",
+    "district": "Parbat",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Padam Giri.jpg"
+  },
+  {
+    "id": "584",
+    "name": "Manahari Sharma",
+    "party": "NCP",
+    "constituency": "Parbat 1",
+    "district": "Parbat",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Manahari Sharma.jpg"
+  },
+  {
+    "id": "585",
+    "name": "Sagar Bhusal",
+    "party": "RSP",
+    "constituency": "Parbat 1",
+    "district": "Parbat",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Sagar Bhusal.jpg"
+  },
+  {
+    "id": "586",
+    "name": "Durga Bahadur Malla",
+    "party": "RPP",
+    "constituency": "Parbat 1",
+    "district": "Parbat",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Durga Bahadur Malla.jpg"
+  },
+    {
+    "id": "587",
+    "name": "Bharat Raj Dhakal",
+    "party": "Congress",
+    "constituency": "Syangja 1",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bharat Raj Dhakal.jpg"
+  },
+  {
+    "id": "588",
+    "name": "Min Prasad Gurung",
+    "party": "UML",
+    "constituency": "Syangja 1",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Min Prasad Gurung.jpg"
+  },
+  {
+    "id": "589",
+    "name": "Shailendra Ghimire",
+    "party": "NCP",
+    "constituency": "Syangja 1",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Shailendra Ghimire.jpg"
+  },
+  {
+    "id": "590",
+    "name": "Dhananjya Regmi",
+    "party": "RSP",
+    "constituency": "Syangja 1",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Dhananjya Regmi.jpg"
+  },
+  {
+    "id": "591",
+    "name": "Hukum Bahadur Rana",
+    "party": "RPP",
+    "constituency": "Syangja 1",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Hukum Bahadur Rana.jpg"
+  },
+
+  {
+    "id": "592",
+    "name": "Bhagwat Prakash Malla",
+    "party": "Congress",
+    "constituency": "Syangja 2",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bhagwat Prakash Malla.jpg"
+  },
+  {
+    "id": "593",
+    "name": "Khim Bahadur Thapa",
+    "party": "UML",
+    "constituency": "Syangja 2",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Khim Bahadur Thapa.jpg"
+  },
+  {
+    "id": "594",
+    "name": "Padam Bishwokarma",
+    "party": "NCP",
+    "constituency": "Syangja 2",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Padam Bishwokarma.jpg"
+  },
+  {
+    "id": "595",
+    "name": "Jhabilal Dumre",
+    "party": "RSP",
+    "constituency": "Syangja 2",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Jhabilal Dumre.jpg"
+  },
+  {
+    "id": "596",
+    "name": "Rabin Pathak",
+    "party": "RPP",
+    "constituency": "Syangja 2",
+    "district": "Syangja",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Rabin Pathak.jpg"
+  },
+
+  {
+    "id": "597",
+    "name": "Balkrishna Ghimire",
+    "party": "Congress",
+    "constituency": "Nawalpur 1",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Balkrishna Ghimire.jpg"
+  },
+  {
+    "id": "598",
+    "name": "Bhagirath Sapkota",
+    "party": "UML",
+    "constituency": "Nawalpur 1",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bhagirath Sapkota.jpg"
+  },
+  {
+    "id": "599",
+    "name": "Lok Prasad Bhurtel",
+    "party": "NCP",
+    "constituency": "Nawalpur 1",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Lok Prasad Bhurtel.jpg"
+  },
+  {
+    "id": "600",
+    "name": "Rajan Gautam",
+    "party": "RSP",
+    "constituency": "Nawalpur 1",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Rajan Gautam.jpg"
+  },
+  {
+    "id": "601",
+    "name": "Dipak Chandra Baskota",
+    "party": "RPP",
+    "constituency": "Nawalpur 1",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Dipak Chandra Baskota.jpg"
+  },
+
+  {
+    "id": "602",
+    "name": "Om Bahadur Gharti Magar",
+    "party": "Congress",
+    "constituency": "Nawalpur 2",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Om Bahadur Gharti Magar.jpg"
+  },
+  {
+    "id": "603",
+    "name": "Tilak Mahat Chhetri",
+    "party": "UML",
+    "constituency": "Nawalpur 2",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Tilak Mahat Chhetri.jpg"
+  },
+  {
+    "id": "604",
+    "name": "Ganeshman Mahato",
+    "party": "NCP",
+    "constituency": "Nawalpur 2",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Ganeshman Mahato.jpg"
+  },
+  {
+    "id": "605",
+    "name": "Manish Khanal",
+    "party": "RSP",
+    "constituency": "Nawalpur 2",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Manish Khanal.jpg"
+  },
+  {
+    "id": "606",
+    "name": "Run Kumari Mahato",
+    "party": "RPP",
+    "constituency": "Nawalpur 2",
+    "district": "Nawalpur",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Run Kumari Mahato.jpg"
+  },
+
+  {
+    "id": "607",
+    "name": "Yogesh Gauchan Thakali",
+    "party": "Congress",
+    "constituency": "Mustang 1",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Yogesh Gauchan Thakali.jpg"
+  },
+  {
+    "id": "608",
+    "name": "Indradhara Dadu Bista",
+    "party": "UML",
+    "constituency": "Mustang 1",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Indradhara Dadu Bista.jpg"
+  },
+  {
+    "id": "609",
+    "name": "Mutuk Gurung",
+    "party": "NCP",
+    "constituency": "Mustang 1",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Mutuk Gurung.jpg"
+  },
+  {
+    "id": "610",
+    "name": "Aditya Thakali",
+    "party": "RSP",
+    "constituency": "Mustang 1",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Aditya Thakali.jpg"
+  },
+  {
+    "id": "611",
+    "name": "Kamala Lalchan",
+    "party": "RPP",
+    "constituency": "Mustang 1",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Kamala Lalchan.jpg"
+  },
+  {
+    "id": "612",
+    "name": "Suresh Sherchan",
+    "party": "UNP",
+    "constituency": "Mustang 1",
+    "district": "Mustang",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Suresh Sherchan.jpg"
+  },
+
+  {
+    "id": "613",
+    "name": "Karna Bahadur Bhandari",
+    "party": "Congress",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Karna Bahadur Bhandari.jpg"
+  },
+  {
+    "id": "614",
+    "name": "Hari Krishna Shrestha",
+    "party": "UML",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Hari Krishna Shrestha.jpg"
+  },
+  {
+    "id": "615",
+    "name": "Arjun Thapa",
+    "party": "NCP",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Arjun Thapa.jpg"
+  },
+  {
+    "id": "616",
+    "name": "Yubaraj Rokka",
+    "party": "RSP",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Yubaraj Rokka.jpg"
+  },
+  {
+    "id": "617",
+    "name": "Dambar Bahadur Subedi",
+    "party": "RPP",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Dambar Bahadur Subedi.jpg"
+  },
+  {
+    "id": "618",
+    "name": "Mahabir Pun",
+    "party": "Ind",
+    "constituency": "Myagdi 1",
+    "district": "Myagdi",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Mahabir Pun.jpg"
+  },
+
+  {
+    "id": "619",
+    "name": "Bhim Shrees Rana",
+    "party": "Congress",
+    "constituency": "Baglung 1",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Bhim Shrees Rana.jpg"
+  },
+  {
+    "id": "620",
+    "name": "Hira Bahadur K.C.",
+    "party": "UML",
+    "constituency": "Baglung 1",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Hira Bahadur K.C..jpg"
+  },
+  {
+    "id": "621",
+    "name": "Sushil Khadka",
+    "party": "RSP",
+    "constituency": "Baglung 1",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Sushil Khadka.jpg"
+  },
+  {
+    "id": "622",
+    "name": "Kalyan Bikram Acharya",
+    "party": "RPP",
+    "constituency": "Baglung 1",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Kalyan Bikram Acharya.jpg"
+  },
+  {
+    "id": "623",
+    "name": "Krishna Adhikari",
+    "party": "RJM",
+    "constituency": "Baglung 1",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Krishna Adhikari.jpg"
+  },
+
+  {
+    "id": "624",
+    "name": "Tekraj Paudel",
+    "party": "Congress",
+    "constituency": "Baglung 2",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Tekraj Paudel.jpg"
+  },
+  {
+    "id": "625",
+    "name": "Manju Sharma Chalise",
+    "party": "UML",
+    "constituency": "Baglung 2",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Manju Sharma Chalise.jpg"
+  },
+  {
+    "id": "626",
+    "name": "Gyannath Gaire",
+    "party": "NCP",
+    "constituency": "Baglung 2",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Gyannath Gaire.jpg"
+  },
+  {
+    "id": "627",
+    "name": "Som Sharma",
+    "party": "RSP",
+    "constituency": "Baglung 2",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Som Sharma.jpg"
+  },
+  {
+    "id": "628",
+    "name": "Anchal Shahi Thakuri",
+    "party": "RPP",
+    "constituency": "Baglung 2",
+    "district": "Baglung",
+    "state": "Gandaki",
+    "bio": "",
+    "photo": "Images/Anchal Shahi Thakuri.jpg"
+  }
 ]
